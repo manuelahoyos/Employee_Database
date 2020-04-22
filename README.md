@@ -24,5 +24,7 @@ List the employee number, last name, first name, gender, and salary for each emp
 
 List employees who were hired in 1986:
 
+![Image description](images/query2.png)
 
+![Image description](images/output2.png)
 
