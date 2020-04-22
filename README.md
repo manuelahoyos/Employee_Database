@@ -1,16 +1,16 @@
 # SQL Challenge
 
 ## Overview:
-Assignment in which a company's employee data was analyzed using SQL queries and CRUD functions. 
+A company's employee data was analyzed by creating a SQL database and using SQL queries and CRUD functions. 
 
 ## Data:
-The datasets contains data about departments, employees' name, ID, birth date, gender and start and end dates of employment, department managers, salaries, and titles.
+The six csv files contain data about the employees' name, ID, birth date, gender and start and end dates of employment. They also contain data about departments, salaries, department managers and employee titles.
 
 
 
 ## Workflow:
 
-sketch out an ERD of the tables.
+Entity Relationship Diagram (ERD)sketch out an ERD of the tables.
 
 a table schema for each of the six CSV files.
 
