@@ -10,7 +10,7 @@ The six csv files contain data about the employees' name, ID, birth date, gender
 
 ## Workflow:
 
-An Entity Relationship Diagram (ERD)sketch was created to visualize the data structure.
+An Entity Relationship Diagram (ERD) sketch was created to visualize the data structure.
 
 ![Image description](EmployeeSQL/ERD.png)
 
