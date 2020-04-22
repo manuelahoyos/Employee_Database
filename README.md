@@ -9,11 +9,11 @@ The six csv files contain data about the employees' name, ID, birth date, gender
 
 ## Workflow:
 
-An Entity Relationship Diagram (ERD) sketch was created to visualize the data structure.
+An Entity Relationship Diagram (ERD) sketch was created to visualize the data structure:
 
 ![Image description](EmployeeSQL/ERD.png)
 
-A table schema was created for each of the six CSV files, and filed were imported into the corresponding SQL table. SQL queries were used to select specific information, merge tables, and sort values.
+A table schema was created for each of the six CSV files, and the files were imported into the corresponding SQL table. SQL queries were used to select specific information, merge tables, and sort values.
 
 - List the employee number, last name, first name, gender, and salary for each employee:
 
