@@ -11,6 +11,7 @@ The six csv files contain data about the employees' name, ID, birth date, gender
 ## Workflow:
 
 Entity Relationship Diagram (ERD)sketch out an ERD of the tables.
+![Image description](EmployeeSQL/ERD.png)
 
 a table schema for each of the six CSV files.
 
@@ -22,4 +23,3 @@ SQL queries were used to select specific information, merge tables, and sort val
 
 
 
-![Image description](images/TumorResponse.png)
