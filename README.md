@@ -23,6 +23,6 @@ A table schema was created for each of the six CSV files, and the files were imp
 
 - List employees who were hired in 1986:
 
-<img src="images/query2.png" width="500">
+<img src="images/query2.png" width="400">
 
 <img src="images/output2.png" width="500">
