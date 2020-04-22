@@ -18,9 +18,11 @@ A table schema was created for each of the six CSV files, and filed were importe
 
 List the employee number, last name, first name, gender, and salary for each employee:
 
-List employees who were hired in 1986:
-
 ![Image description](images/query1.png)
 
 ![Image description](images/output1.png)
+
+List employees who were hired in 1986:
+
+
 
