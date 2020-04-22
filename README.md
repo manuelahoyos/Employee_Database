@@ -25,4 +25,4 @@ A table schema was created for each of the six CSV files, and the files were imp
 
 <img src="images/query2.png" width="500">
 
-<img src="images/output2.png" width="600">
+<img src="images/output2.png" width="500">
