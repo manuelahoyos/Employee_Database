@@ -17,5 +17,7 @@ An Entity Relationship Diagram (ERD) sketch was created to visualize the data st
 A table schema was created for each of the six CSV files, and filed were imported into the corresponding SQL table. SQL queries were used to select specific information, merge tables, and sort values.
 
 
+![Image description](images/query1.png)
 
+![Image description](images/output1.png)
 
