@@ -2,7 +2,7 @@
 
 ## Overview:
 
-A company's employee data was analyzed by creating a SQL database and using SQL queries and CRUD functions. 
+A company's employee data were analyzed by creating a SQL database and using SQL queries and CRUD functions. 
 
 ## Data:
 
