@@ -15,7 +15,7 @@ An Entity Relationship Diagram (ERD) sketch was created to visualize the data st
 
 <img src="EmployeeSQL/ERD.png" width="500">
 
-A table schema was created for each of the six CSV files, and the files were imported into the corresponding SQL table. SQL queries were used to select specific information, merge tables, and sort values.
+A table schema was created for each of the six CSV files, and the files were imported into the corresponding SQL tables. SQL queries were used to select specific information, merge tables, and sort values.
 
 - List the employee number, last name, first name, gender, and salary for each employee:
 
